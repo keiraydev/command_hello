@@ -1,5 +1,8 @@
 # // // For command line git tutorial
 # // Local repository modification
+# author : kei
+# date : 2017.01.11
+
 
 print("---------------")
 print("Hello world")
