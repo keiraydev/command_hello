@@ -1,3 +1,6 @@
+// For command line git tutorial
+// Local repository modification
+
 print("---------------")
 print("Hello world")
 print("nice to meet you")
