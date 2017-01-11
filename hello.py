@@ -1,3 +1,6 @@
+// For command line git tutorial
+// GitHub modification
+
 print("---------------")
 print("Hello world")
 print("nice to meet you")
