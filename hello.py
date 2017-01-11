@@ -1,5 +1,5 @@
-# // // For command line git tutorial
-# // Local repository modification
+# For command line git tutorial
+# first modification
 # author : kei
 # date : 2017.01.11
 
